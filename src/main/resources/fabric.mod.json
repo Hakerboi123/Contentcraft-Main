@@ -1,0 +1,49 @@
+{
+	"schemaVersion": 1,
+	"id": "contentcraft",
+	"version": "${version}",
+	"name": "ContentCraft",
+	"description": "Do you feel like minecraft has become boring? Well Contentcraft is here to fix that! meet the all in one mod fixing minecrafts progression, advancements, items and way more!",
+	"authors": [
+		"Lead Dev: Hakerboi, ",
+		"Made in partnership with GlowstoneLabs",
+		"Contributors & coding help: ",
+		"- Romeo Snowblitz: WorldGen Help",
+		"- Bottetoundra719: WorldGen Help",
+		"- Azudin: Xaenon Textures"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/contentcraft/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"xyz.glowstonelabs.contentcraft.ContentCraft"
+		],
+		"client": [
+			"xyz.glowstonelabs.contentcraft.ContentCraftClient"
+		],
+		"fabric-datagen": [
+			"xyz.glowstonelabs.contentcraft.ContentCraftDataGenerator"
+		]
+	},
+	"mixins": [
+		"contentcraft.mixins.json",
+		{
+			"config": "contentcraft.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
