@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": {
+      "item": "minecraft:copper_ingot"
+    },
+    "S": {
+      "item": "contentcraft:copper_nugget"
+    }
+  },
+  "pattern": [
+    "   ",
+    "SPS",
+    "   "
+  ],
+  "result": {
+    "count": 1,
+    "id": "contentcraft:copper_coin"
+  }
+}

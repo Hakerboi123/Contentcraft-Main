@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "contentcraft:maple_planks"
+    },
+    {
+      "item": "contentcraft:maple_stairs"
+    },
+    {
+      "item": "contentcraft:maple_fence"
+    },
+    {
+      "item": "contentcraft:maple_pressure_plate"
+    }
+  ],
+  "result": {
+    "id": "contentcraft:maple_button",
+    "count": 1
+  }
+}

@@ -3,14 +3,18 @@
 	"id": "contentcraft",
 	"version": "${version}",
 	"name": "ContentCraft",
-	"description": "Do you feel like minecraft has become boring? Well Contentcraft is here to fix that! meet the all in one mod fixing minecrafts progression, advancements, items and way more!",
+	"description": "Contentcraft aims to fix minecraft's progression in a simple way!",
 	"authors": [
-		"Lead Dev: Hakerboi, ",
+		"Lead Devs: ",
+		" - Hakerboi,",
+		" - AxisTheOhOh",
+		"Artists: ",
+		" - Auzdin,",
+		" - K00lB1rd",
 		"Made in partnership with GlowstoneLabs",
-		"Contributors & coding help: ",
-		"- Romeo Snowblitz: WorldGen Help",
-		"- Bottetoundra719: WorldGen Help",
-		"- Azudin: Xaenon Textures"
+		"Contributors & dev help: ",
+		" - Romeo Snowblitz: WorldGen Help",
+		" - Bottetoundra719: WorldGen Help"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",

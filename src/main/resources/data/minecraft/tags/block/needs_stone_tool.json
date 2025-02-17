@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "contentcraft:xaenon_block",
+    "contentcraft:raw_xaenon_block",
+    "contentcraft:bismuth_block",
+    "contentcraft:raw_bismuth_block",
+    "contentcraft:sapphire_block",
+    "contentcraft:raw_sapphire_block",
+    "contentcraft:ruby_block",
+    "contentcraft:raw_ruby_block"
+  ]
+}

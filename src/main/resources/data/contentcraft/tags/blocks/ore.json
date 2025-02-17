@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "contentcraft:xaenon_ore",
+    "contentcraft:bismuth_ore",
+    "contentcraft:sapphire_ore",
+    "contentcraft:ruby_ore"
+  ]
+}

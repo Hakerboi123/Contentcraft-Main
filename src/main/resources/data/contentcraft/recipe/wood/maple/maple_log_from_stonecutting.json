@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "contentcraft:maple_wood"
+    }
+  ],
+  "result": {
+    "id": "contentcraft:maple_log",
+    "count": 1
+  }
+}

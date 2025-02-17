@@ -1,0 +1,96 @@
+{
+  "item.contentcraft.xaenon_ingot": "Xaenon-Barren",
+  "item.contentcraft.raw_xaenon": "Roh-Xaenon",
+
+  "item.contentcraft.bismuth": "Bismut",
+  "item.contentcraft.raw_bismuth": "Roh-Bismut",
+
+  "item.contentcraft.sapphire": "Saphir",
+  "item.contentcraft.raw_sapphire": "Roh-Saphir",
+
+  "item.contentcraft.ruby": "Rubin",
+  "item.contentcraft.raw_ruby": "Roh-Rubin",
+
+  "item.contentcraft.black_opal": "Schwarzer Opal",
+  "item.contentcraft.raw_black_opal": "Roh-Schwarzer Opal",
+
+  "item.contentcraft.xaenon_sword": "Xaenon-Schwert",
+  "item.contentcraft.xaenon_pickaxe": "Xaenon-Spitzhacke",
+  "item.contentcraft.xaenon_shovel": "Xaenon-Schaufel",
+  "item.contentcraft.xaenon_axe": "Xaenon-Axt",
+  "item.contentcraft.xaenon_hoe": "Xaenon-Hacke",
+
+  "item.contentcraft.xaenon_boots": "Xaenon-Stiefel",
+  "item.contentcraft.xaenon_chestplate": "Xaenon-Brustplatte",
+  "item.contentcraft.xaenon_helmet": "Xaenon-Helm",
+  "item.contentcraft.xaenon_leggings": "Xaenon-Beinschützer",
+
+  "item.contentcraft.xaenon_chisel": "Xaenon-Meißel",
+  "item.contentcraft.heart": "Herz",
+
+  "block.contentcraft.xaenon_block": "Xaenon-Block",
+  "block.contentcraft.raw_xaenon_block": "Roh-Xaenon-Block",
+  "block.contentcraft.xaenon_ore": "Xaenon-Erz",
+
+  "block.contentcraft.bismuth_block": "Bismut-Block",
+  "block.contentcraft.raw_bismuth_block": "Roh-Bismut-Block",
+  "block.contentcraft.bismuth_ore": "Bismut-Erz",
+
+  "block.contentcraft.sapphire_block": "Saphir-Block",
+  "block.contentcraft.raw_sapphire_block": "Roh-Saphir-Block",
+  "block.contentcraft.sapphire_ore": "Saphir-Erz",
+
+  "block.contentcraft.ruby_block": "Rubin-Block",
+  "block.contentcraft.raw_ruby_block": "Roh-Rubin-Block",
+  "block.contentcraft.ruby_ore": "Rubin-Erz",
+
+  "block.contentcraft.black_opal_block": "Schwarzer Opal-Block",
+  "block.contentcraft.black_opal_ore": "Schwarzer Opal-Erz",
+
+  "block.contentcraft.lava_sponge": "Lava-Schwamm",
+  "block.contentcraft.infused_lava_sponge": "Infundierter Lava-Schwamm",
+
+  "block.contentcraft.maple_log": "Ahornstamm",
+  "block.contentcraft.maple_leaves": "Ahornblätter",
+  "block.contentcraft.maple_sapling": "Ahornsämling",
+  "block.contentcraft.maple_wood": "Ahornholz",
+  "block.contentcraft.stripped_maple_log": "Geschälter Ahornstamm",
+  "block.contentcraft.stripped_maple_wood": "Geschältes Ahornholz",
+  "block.contentcraft.maple_planks": "Ahornplanken",
+  "block.contentcraft.maple_button": "Ahornknopf",
+  "block.contentcraft.maple_stairs": "Ahornstufen",
+  "block.contentcraft.maple_fence": "Ahornzaun",
+  "block.contentcraft.maple_fence_gate": "Ahornzauntor",
+  "block.contentcraft.maple_trapdoor": "Ahornfalle",
+  "block.contentcraft.maple_door": "Ahorn-Tür",
+  "block.contentcraft.maple_slab": "Ahornplatte",
+  "block.contentcraft.maple_pressure_plate": "Ahorn-Druckplatte",
+
+  "item.contentcraft.gold_coin": "Gold Münze",
+  "item.contentcraft.copper_coin": "Kupfer Münze",
+  "item.contentcraft.iron_coin": "Eisen Münze",
+
+  "item.contentcraft.copper_nugget": "Kaupfer Klumpen",
+
+  "tooltip.contentcraft.gold_coin.shift_down": "Dieser Gegenstand ermöglicht Rollenspielwährung.",
+  "tooltip.contentcraft.gold_coin.shift_down.line2": "1 Goldmünze entspricht 2 Kupfermünzen und 4 Eisenmünzen.",
+  "tooltip.contentcraft.gold_coin.shift_down.line3": "Aber du kannst dir auch deinen eigenen Wert ausdenken.",
+  "tooltip.contentcraft.gold_coin": "Drücke §e§l[SHIFT]§r für mehr Informationen!",
+
+  "tooltip.contentcraft.copper_coin.shift_down": "Dieser Gegenstand ermöglicht Rollenspielwährung.",
+  "tooltip.contentcraft.copper_coin.shift_down.line2": "2 Kupfermünzen entsprechen 4 Eisenmünzen und 1 Goldmünze.",
+  "tooltip.contentcraft.copper_coin.shift_down.line3": "Aber du kannst dir auch deinen eigenen Wert ausdenken.",
+  "tooltip.contentcraft.copper_coin": "Drücke §e§l[SHIFT]§r für mehr Informationen!",
+
+  "tooltip.contentcraft.iron_coin.shift_down": "Dieser Gegenstand ermöglicht Rollenspielwährung.",
+  "tooltip.contentcraft.iron_coin.shift_down.line2": "4 Eisenmünzen entsprechen 2 Kupfermünzen und 1 Goldmünze.",
+  "tooltip.contentcraft.iron_coin.shift_down.line3": "Aber du kannst dir auch deinen eigenen Wert ausdenken.",
+  "tooltip.contentcraft.iron_coin": "Drücke §e§l[SHIFT]§r für mehr Informationen!",
+
+
+
+
+
+  "itemgroup.contentcraft.contentcraft_blocks_n_generation": "ContentCraft: Blöcke N Generation",
+  "itemgroup.contentcraft.contentcraft_functional": "ContentCraft: Funktional"
+}

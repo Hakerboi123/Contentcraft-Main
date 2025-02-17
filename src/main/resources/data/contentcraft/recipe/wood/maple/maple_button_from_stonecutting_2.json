@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "contentcraft:maple_door"
+    },
+    {
+      "item": "contentcraft:maple_fence_gate"
+    }
+  ],
+  "result": {
+    "id": "contentcraft:maple_button",
+    "count": 2
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "contentcraft:maple_planks"
+    }
+  ],
+  "result": {
+    "id": "contentcraft:maple_slab",
+    "count": 2
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "contentcraft:maple_log"
+    },
+    {
+      "item": "contentcraft:stripped_maple_log"
+    },
+    {
+      "item": "contentcraft:maple_wood"
+    },
+    {
+      "item": "contentcraft:stripped_maple_wood"
+    }
+  ],
+  "result": {
+    "id": "contentcraft:maple_pressure_plate",
+    "count": 2
+  }
+}
