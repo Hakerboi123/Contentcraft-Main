@@ -12,10 +12,7 @@ base {
 
 repositories {
 	maven {
-		url "https://dl.cloudsmith.io/public/klikli-dev/mods/maven/"
-		content {
-			includeGroup "com.klikli_dev"
-		}
+		url 'https://maven.blamejared.com'
 	}
 }
 
@@ -45,7 +42,7 @@ dependencies {
 
 	// Fabric API. This is technically optional, but you probably want it anyway.
 	modImplementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_version}"
-	compileOnly ("com.klikli_dev:modonomicon-${minecraft_version}-common:${modonomicon_version}"){transitive=false}
+	modImplementation "vazkii.patchouli:Patchouli:1.21-87-FABRIC"
 
 }
 

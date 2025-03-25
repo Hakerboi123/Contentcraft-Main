@@ -29,9 +29,6 @@
 		],
 		"client": [
 			"xyz.glowstonelabs.contentcraft.ContentCraftClient"
-		],
-		"fabric-datagen": [
-			"xyz.glowstonelabs.contentcraft.ContentCraftDataGenerator"
 		]
 	},
 	"mixins": [
